@@ -26,3 +26,5 @@ Se va realiza un sistem de conducere pe bază de microcontroller care va efectua
 - Se va implementa un generator de numere random (PRNG sau TRNG).
 - Sistemul va dispune de un generator de perturbații care va afecta circuitul de măsurare a temperaturii cu valori aleatorii folosind modulul PRNG/TRNG implementat anterior.
 - Apăsarea butonului "OK" în timpul rulării unui program de reglare a temperaturii va porni modulul de perturbații, iar apăsarea din nou a aceluiași buton o va opri.
+
+Link catre lucrarea din tinkercad: [Simularea in Tinkercad](https://www.tinkercad.com/things/hoNR275YKlJ-proiectsincretic)
